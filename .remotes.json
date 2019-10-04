@@ -1,5 +1,11 @@
 [
   {
+    "package": "gcalendr",
+    "url": "https://github.com/andrie/gcalendr",
+    "via": ["eprimeParser"],
+    "from": "eprimeParser"
+  },
+  {
     "package": "ggseg",
     "url": "https://github.com/LCBC-UiO/ggbrain",
     "via": ["lcbcr"],

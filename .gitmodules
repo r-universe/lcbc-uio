@@ -58,6 +58,11 @@
 	url = https://github.com/LCBC-UiO/eprimeParser
 	shallow = true
 	registered = true
+[submodule "gcalendr"]
+	path = gcalendr
+	url = https://github.com/andrie/gcalendr
+	shallow = true
+	registered = false
 [submodule "ggseg"]
 	path = ggseg
 	url = https://github.com/LCBC-UiO/ggbrain
