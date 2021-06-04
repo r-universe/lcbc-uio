@@ -1,5 +1,40 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/lcbc-uio/universe
 	shallow = true
 	branch = HEAD
+[submodule "nettskjemar"]
+	path = nettskjemar
+	url = https://github.com/LCBC-UiO/nettskjemar/
+	shallow = true
+	registered = true
+[submodule "MOAS"]
+	path = MOAS
+	url = https://github.com/LCBC-UiO/MOAS
+	shallow = true
+	registered = true
+[submodule "Questionnaires"]
+	path = Questionnaires
+	url = https://github.com/LCBC-UiO/Questionnaires
+	shallow = true
+	registered = true
+[submodule "Conversions"]
+	path = Conversions
+	url = https://github.com/LCBC-UiO/Conversions
+	shallow = true
+	registered = true
+[submodule "galamm"]
+	path = galamm
+	url = https://github.com/LCBC-UiO/galamm
+	shallow = true
+	registered = true
+[submodule "noasr"]
+	path = noasr
+	url = https://github.com/LCBC-UiO/noasr
+	shallow = true
+	registered = true
+[submodule "tsdrtools"]
+	path = tsdrtools
+	url = https://github.com/LCBC-UiO/tsdrtools
+	shallow = true
+	registered = true

@@ -1,0 +1,24 @@
+[
+  {
+    "package": "nettskjemar",
+    "oncran": true
+  },
+  {
+    "package": "MOAS"
+  },
+  {
+    "package": "Questionnaires"
+  },
+  {
+    "package": "Conversions"
+  },
+  {
+    "package": "galamm"
+  },
+  {
+    "package": "noasr"
+  },
+  {
+    "package": "tsdrtools"
+  }
+]
