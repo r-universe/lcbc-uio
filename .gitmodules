@@ -38,6 +38,11 @@
 	url = https://github.com/LCBC-UiO/tsdrtools
 	shallow = true
 	registered = true
+[submodule "BayesianLaterality"]
+	path = BayesianLaterality
+	url = https://github.com/LCBC-UiO/BayesianLaterality
+	shallow = true
+	registered = true
 [submodule "ggbrain"]
 	path = ggbrain
 	url = https://github.com/LCBC-UiO/ggbrain

@@ -20,5 +20,9 @@
   },
   {
     "package": "tsdrtools"
+  },
+  {
+    "package": "BayesianLaterality",
+    "oncran": false
   }
 ]
