@@ -23,6 +23,6 @@
   },
   {
     "package": "BayesianLaterality",
-    "oncran": false
+    "oncran": true
   }
 ]
