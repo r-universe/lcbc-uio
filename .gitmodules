@@ -43,3 +43,8 @@
 	url = https://github.com/LCBC-UiO/BayesianLaterality
 	shallow = true
 	registered = true
+[submodule "ggbrain"]
+	path = ggbrain
+	url = https://github.com/LCBC-UiO/ggbrain
+	shallow = true
+	registered = false
