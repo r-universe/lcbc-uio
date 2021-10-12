@@ -8,11 +8,6 @@
 	url = https://github.com/LCBC-UiO/nettskjemar/
 	shallow = true
 	registered = true
-[submodule "MOAS"]
-	path = MOAS
-	url = https://github.com/LCBC-UiO/MOAS
-	shallow = true
-	registered = true
 [submodule "Questionnaires"]
 	path = Questionnaires
 	url = https://github.com/LCBC-UiO/Questionnaires
