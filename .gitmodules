@@ -43,6 +43,11 @@
 	url = https://github.com/LCBC-UiO/BayesianLaterality
 	shallow = true
 	registered = true
+[submodule "psykinematix"]
+	path = psykinematix
+	url = https://github.com/LCBC-UiO/psykinematix
+	shallow = true
+	registered = true
 [submodule "ggseg"]
 	path = ggseg
 	url = https://github.com/LCBC-UiO/ggbrain

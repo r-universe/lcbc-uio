@@ -24,5 +24,8 @@
   {
     "package": "BayesianLaterality",
     "oncran": true
+  },
+  {
+    "package": "psykinematix"
   }
 ]
