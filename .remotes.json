@@ -2,12 +2,6 @@
   {
     "package": "ggseg",
     "url": "https://github.com/LCBC-UiO/ggbrain",
-    "via": ["MOAS"],
-    "from": "MOAS"
-  },
-  {
-    "package": "ggseg",
-    "url": "https://github.com/LCBC-UiO/ggbrain",
     "via": ["lcbcr"],
     "from": "lcbcr"
   }
