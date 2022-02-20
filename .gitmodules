@@ -5,7 +5,7 @@
 	branch = HEAD
 [submodule "nettskjemar"]
 	path = nettskjemar
-	url = https://github.com/LCBC-UiO/nettskjemar/
+	url = https://github.com/LCBC-UiO/nettskjemar
 	shallow = true
 	registered = true
 [submodule "lcbcr"]
