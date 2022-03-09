@@ -13,9 +13,9 @@
 	url = https://github.com/LCBC-UiO/lcbcr
 	shallow = true
 	registered = true
-[submodule "Questionnaires"]
-	path = Questionnaires
-	url = https://github.com/LCBC-UiO/Questionnaires
+[submodule "questionnaires"]
+	path = questionnaires
+	url = https://github.com/LCBC-UiO/questionnaires
 	shallow = true
 	registered = true
 [submodule "Conversions"]
