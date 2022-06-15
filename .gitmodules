@@ -48,6 +48,11 @@
 	url = https://github.com/LCBC-UiO/psykinematix
 	shallow = true
 	registered = true
+[submodule "nettskjema.tsd"]
+	path = nettskjema.tsd
+	url = https://github.com/LCBC-UiO/nettskjema.tsd
+	shallow = true
+	registered = true
 [submodule "ggseg"]
 	path = ggseg
 	url = https://github.com/LCBC-UiO/ggbrain
