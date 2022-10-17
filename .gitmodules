@@ -53,6 +53,11 @@
 	url = https://github.com/LCBC-UiO/nettskjema.tsd
 	shallow = true
 	registered = true
+[submodule "eprimeParser"]
+	path = eprimeParser
+	url = https://github.com/LCBC-UiO/eprimeParser
+	shallow = true
+	registered = true
 [submodule "ggseg"]
 	path = ggseg
 	url = https://github.com/LCBC-UiO/ggbrain

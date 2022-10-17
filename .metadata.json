@@ -30,5 +30,8 @@
   },
   {
     "package": "nettskjema.tsd"
+  },
+  {
+    "package": "eprimeParser"
   }
 ]
