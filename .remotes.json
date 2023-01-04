@@ -1,5 +1,12 @@
 [
   {
+    "package": "RcppEigen",
+    "url": "https://github.com/yixuan/RcppEigen",
+    "via": ["galamm"],
+    "branch": "6d87938bf4d6ade8caf5e8377228e5177dcbb9bf",
+    "from": "galamm"
+  },
+  {
     "package": "gcalendr",
     "url": "https://github.com/andrie/gcalendr",
     "via": ["eprimeParser"],

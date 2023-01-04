@@ -58,6 +58,12 @@
 	url = https://github.com/LCBC-UiO/eprimeParser
 	shallow = true
 	registered = true
+[submodule "RcppEigen"]
+	path = RcppEigen
+	url = https://github.com/yixuan/RcppEigen
+	shallow = true
+	branch = 6d87938bf4d6ade8caf5e8377228e5177dcbb9bf
+	registered = false
 [submodule "gcalendr"]
 	path = gcalendr
 	url = https://github.com/andrie/gcalendr
