@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/lcbc-uio/universe
+	url = https://github.com/lcbc-uio/lcbc-uio.r-universe.dev
 	shallow = true
 	branch = HEAD
 [submodule "nettskjemar"]
