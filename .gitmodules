@@ -1,76 +1,50 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/lcbc-uio/lcbc-uio.r-universe.dev
-	shallow = true
 	branch = HEAD
 [submodule "nettskjemar"]
 	path = nettskjemar
 	url = https://github.com/LCBC-UiO/nettskjemar
-	shallow = true
-	registered = true
 [submodule "lcbcr"]
 	path = lcbcr
 	url = https://github.com/LCBC-UiO/lcbcr
-	shallow = true
-	registered = true
 [submodule "questionnaires"]
 	path = questionnaires
 	url = https://github.com/LCBC-UiO/questionnaires
-	shallow = true
-	registered = true
 [submodule "Conversions"]
 	path = Conversions
 	url = https://github.com/LCBC-UiO/Conversions
-	shallow = true
-	registered = true
 [submodule "galamm"]
 	path = galamm
 	url = https://github.com/LCBC-UiO/galamm
-	shallow = true
-	registered = true
 [submodule "noasr"]
 	path = noasr
 	url = https://github.com/LCBC-UiO/noasr
-	shallow = true
-	registered = true
 [submodule "tsdrtools"]
 	path = tsdrtools
 	url = https://github.com/LCBC-UiO/tsdrtools
-	shallow = true
-	registered = true
 [submodule "BayesianLaterality"]
 	path = BayesianLaterality
 	url = https://github.com/LCBC-UiO/BayesianLaterality
-	shallow = true
-	registered = true
 [submodule "psykinematix"]
 	path = psykinematix
 	url = https://github.com/LCBC-UiO/psykinematix
-	shallow = true
-	registered = true
 [submodule "nettskjema.tsd"]
 	path = nettskjema.tsd
 	url = https://github.com/LCBC-UiO/nettskjema.tsd
-	shallow = true
-	registered = true
 [submodule "eprimeParser"]
 	path = eprimeParser
 	url = https://github.com/LCBC-UiO/eprimeParser
-	shallow = true
-	registered = true
 [submodule "RcppEigen"]
 	path = RcppEigen
 	url = https://github.com/yixuan/RcppEigen
-	shallow = true
 	branch = 6d87938bf4d6ade8caf5e8377228e5177dcbb9bf
 	registered = false
 [submodule "gcalendr"]
 	path = gcalendr
 	url = https://github.com/andrie/gcalendr
-	shallow = true
 	registered = false
 [submodule "ggseg"]
 	path = ggseg
 	url = https://github.com/LCBC-UiO/ggbrain
-	shallow = true
 	registered = false
