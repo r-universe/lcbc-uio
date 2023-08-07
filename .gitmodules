@@ -2,44 +2,23 @@
 	path = .registry
 	url = https://github.com/lcbc-uio/lcbc-uio.r-universe.dev
 	branch = HEAD
-[submodule "nettskjemar"]
-	path = nettskjemar
-	url = https://github.com/LCBC-UiO/nettskjemar
-[submodule "lcbcr"]
-	path = lcbcr
-	url = https://github.com/LCBC-UiO/lcbcr
-[submodule "questionnaires"]
-	path = questionnaires
-	url = https://github.com/LCBC-UiO/questionnaires
-[submodule "Conversions"]
-	path = Conversions
-	url = https://github.com/LCBC-UiO/Conversions
-[submodule "galamm"]
-	path = galamm
-	url = https://github.com/LCBC-UiO/galamm
-[submodule "noasr"]
-	path = noasr
-	url = https://github.com/LCBC-UiO/noasr
-[submodule "tsdrtools"]
-	path = tsdrtools
-	url = https://github.com/LCBC-UiO/tsdrtools
 [submodule "BayesianLaterality"]
 	path = BayesianLaterality
 	url = https://github.com/LCBC-UiO/BayesianLaterality
-[submodule "psykinematix"]
-	path = psykinematix
-	url = https://github.com/LCBC-UiO/psykinematix
-[submodule "nettskjema.tsd"]
-	path = nettskjema.tsd
-	url = https://github.com/LCBC-UiO/nettskjema.tsd
-[submodule "eprimeParser"]
-	path = eprimeParser
-	url = https://github.com/LCBC-UiO/eprimeParser
+[submodule "Conversions"]
+	path = Conversions
+	url = https://github.com/LCBC-UiO/Conversions
 [submodule "RcppEigen"]
 	path = RcppEigen
 	url = https://github.com/yixuan/RcppEigen
 	branch = 6d87938bf4d6ade8caf5e8377228e5177dcbb9bf
 	registered = false
+[submodule "eprimeParser"]
+	path = eprimeParser
+	url = https://github.com/LCBC-UiO/eprimeParser
+[submodule "galamm"]
+	path = galamm
+	url = https://github.com/LCBC-UiO/galamm
 [submodule "gcalendr"]
 	path = gcalendr
 	url = https://github.com/andrie/gcalendr
@@ -48,3 +27,24 @@
 	path = ggseg
 	url = https://github.com/LCBC-UiO/ggbrain
 	registered = false
+[submodule "lcbcr"]
+	path = lcbcr
+	url = https://github.com/LCBC-UiO/lcbcr
+[submodule "nettskjema.tsd"]
+	path = nettskjema.tsd
+	url = https://github.com/LCBC-UiO/nettskjema.tsd
+[submodule "nettskjemar"]
+	path = nettskjemar
+	url = https://github.com/LCBC-UiO/nettskjemar
+[submodule "noasr"]
+	path = noasr
+	url = https://github.com/LCBC-UiO/noasr
+[submodule "psykinematix"]
+	path = psykinematix
+	url = https://github.com/LCBC-UiO/psykinematix
+[submodule "questionnaires"]
+	path = questionnaires
+	url = https://github.com/LCBC-UiO/questionnaires
+[submodule "tsdrtools"]
+	path = tsdrtools
+	url = https://github.com/LCBC-UiO/tsdrtools
