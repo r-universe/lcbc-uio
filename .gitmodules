@@ -14,14 +14,6 @@
 [submodule "galamm"]
 	path = galamm
 	url = https://github.com/LCBC-UiO/galamm
-[submodule "gcalendr"]
-	path = gcalendr
-	url = https://github.com/andrie/gcalendr
-	registered = false
-[submodule "ggseg"]
-	path = ggseg
-	url = https://github.com/LCBC-UiO/ggbrain
-	registered = false
 [submodule "lcbcr"]
 	path = lcbcr
 	url = https://github.com/LCBC-UiO/lcbcr
