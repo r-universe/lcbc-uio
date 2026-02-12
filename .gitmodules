@@ -23,6 +23,9 @@
 [submodule "nettskjemar"]
 	path = nettskjemar
 	url = https://github.com/LCBC-UiO/nettskjemar
+[submodule "neuromapr"]
+	path = neuromapr
+	url = https://github.com/LCBC-UiO/neuromapr
 [submodule "noasr"]
 	path = noasr
 	url = https://github.com/LCBC-UiO/noasr
@@ -35,3 +38,6 @@
 [submodule "tsdrtools"]
 	path = tsdrtools
 	url = https://github.com/LCBC-UiO/tsdrtools
+[submodule "wbcmd"]
+	path = wbcmd
+	url = https://github.com/LCBC-UiO/wbcmd
